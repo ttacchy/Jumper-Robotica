@@ -133,15 +133,7 @@ Para estabelecer prioridades no que diz respeito a qual operação executar prim
 
 ![Operadores Relacionais](https://user-images.githubusercontent.com/20933519/188018116-35cc0843-e0f0-43bf-ab1c-702093123b66.png)
 
-**_Exemplo_**
-
-> A = 5       B = 3
-
-**Os resulatados da expressões seriam:**
-
-![Exemplo](https://user-images.githubusercontent.com/20933519/188018826-221755bf-8730-4b5f-aded-7e5e87b38404.png)
-
-##Operadores Lógicos
+## Operadores Lógicos
 
 Os operadores lógicos servem para combinar resultados de expressões, retornando se o resultado final é verdadeiro ou falso.
 
